@@ -33,7 +33,7 @@
     "get-stream": "^5.2.0",
     "fs-extra": "^8.1.0",
     "get-intrinsic": "^1.1.3",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "has": "^1.0.3",
     "global-tunnel-ng": "^2.7.1",
     "globalthis": "^1.0.3",
