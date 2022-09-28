@@ -2,3 +2,6 @@
 /* styles.css */
 
 /* Add styles here to customize the appearance of your app */
+html, body {
+    width: 50px;
+}
