@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "main": "src/app/main.js",
   "dependencies": {
-    "cacheable-request": "^6.1.0",
+    "cacheable-request": "^10.2.7",
     "buffer-crc32": "^0.2.13",
     "clone-response": "^1.0.3",
     "debug": "^4.3.4",
